@@ -1,0 +1,5 @@
+2
+Node1 60 60 3rah
+Node2 12 40 4rah
+1
+1tarafe Node1 Node2 2 vertical 36 50   
